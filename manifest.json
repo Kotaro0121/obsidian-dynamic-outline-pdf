@@ -1,0 +1,10 @@
+{
+  "id": "dynamic-outline-pdf",
+  "name": "Dynamic Outline PDF (Unofficial)",
+  "version": "0.1.4",
+  "minAppVersion": "1.8.0",
+  "description": "Unofficial Dynamic Outline fork: floating Markdown headings and PDF bookmarks.",
+  "author": "theopavlove (original), local PDF fork",
+  "authorUrl": "https://github.com/theopavlove",
+  "isDesktopOnly": false
+}
